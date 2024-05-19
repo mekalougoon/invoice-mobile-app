@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FIT2081-A2</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="exit">Exit</string>
+    <string name="list_invoices">List all Invoices</string>
+    <string name="clear_fields">Clear all Fields</string>
+    <string name="items_map">Items Map</string>
+    <string name="add_invoice">Add Invoice</string>
+    <string name="add_item">Add Item</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC3rddcwMWjpiELS6Zi784992_W4ie1oJM</string>
+</resources>
